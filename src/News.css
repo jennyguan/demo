@@ -1,0 +1,14 @@
+.Dropdown-root {
+    position: sticky;
+    top: 0;
+}
+
+/* TODO: restyle dropdown to have stronger visual hierarchy */
+.Dropdown-control {
+    /*border: 1px solid #202020;*/
+}
+
+h3 {
+    margin-left: 1%;
+    margin-right: 1%;
+}

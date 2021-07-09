@@ -1,0 +1,21 @@
+/* TODO: scroll snapping */
+
+.articles-container {
+    padding-left: 5%;
+    padding-right: 5%;
+    /*overflow: scroll;*/
+    /*scroll-snap-type: y proximity;*/
+}
+
+.article-card {
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    padding: 1.5%;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    /*scroll-snap-align: start;*/
+}
+
+.article-content {
+    text-align: left;
+}
